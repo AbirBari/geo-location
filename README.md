@@ -1,0 +1,11 @@
+
+# GET CURRENT LOCATION
+
+GET CURRENT POSITION. MADE WITH GEO LOCATION API AND LEAFLATE MAP.
+
+
+
+## DEPLOYMENT
+
+https://asifkamaltias.github.io/geo-location/
+
